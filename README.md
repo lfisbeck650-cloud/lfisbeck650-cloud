@@ -15,7 +15,7 @@
 * 🧠 Exploring **CPU architectures, registers, memory, interrupts and hardware**
 * 🔩 Interested in how software communicates directly with hardware
 * 🕹️ Exploring **retro console homebrew development**
-* 🔬 Learning how computers work from **machine code → Assembly → C → higher-level software**
+* 🔬 Learning how computers work from **machine code -> Assembly -> C -> higher-level software**
 * 🔌 Also experimenting with electronics and microcontrollers such as **ESP32 and Arduino**
 * 🌱 Learning by building things from scratch
 * 🎯 Goal: understand computers as deeply as possible, from **hardware to software**
@@ -41,9 +41,9 @@
 
 Currently exploring low-level development for:
 
-* 🕹️ **NES** — C & Assembly
-* 🎮 **Nintendo DS** — C & ARM Assembly
-* 🏠 **Nintendo Wii** — C, libogc & low-level development
+* 🕹️ **NES** - C & Assembly
+* 🎮 **Nintendo DS** - C & ARM Assembly
+* 🏠 **Nintendo Wii** - C, libogc & low-level development
 
 Learning how each platform handles its:
 
@@ -81,7 +81,7 @@ A mix of:
 * Learn low-level programming across different architectures
 * Develop my own **NES, Nintendo DS and Wii software**
 * Understand memory, registers, interrupts and hardware at a deeper level
-* Learn how software works from **machine code all the way up to applications**
+* Learn how software works from **machine code -> Assembly -> C -> applications**
 * Build increasingly complex software **close to the hardware**
 * Eventually be able to write software that interacts directly with hardware with minimal abstraction
 
@@ -91,4 +91,4 @@ A mix of:
 
 > **Low-level programming, C, Assembly, computer architecture and retro console development.**
 
-I'm especially interested in understanding **what actually happens inside a computer when code runs** — rather than only using high-level abstractions.
+I'm especially interested in understanding **what actually happens inside a computer when code runs** - rather than only using high-level abstractions.
